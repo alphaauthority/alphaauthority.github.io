@@ -1,3 +1,3 @@
-# alphaauthority.github.io
+# Alpha Authority
 
 ---
